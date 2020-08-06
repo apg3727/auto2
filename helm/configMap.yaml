@@ -1,7 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: test-dvi
-  namespace: flux
-data:
-  User_Name: arunpg37
