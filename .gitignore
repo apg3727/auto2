@@ -1,3 +1,4 @@
 .gitsecret/keys/random_seed
 !*.secret
 test/sect.yaml
+test/secret.yaml
